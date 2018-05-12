@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '9600'
     url: http://www.gutenberg.org/2009/agents/9600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20911#The-Rose-of-Old-St.-Louis
 gutenberg_issued: '2007-03-26'
 gutenberg_type: Text
 identifiers:
