@@ -1,0 +1,45 @@
+_repo: The-Rose-of-Old-St.-Louis_20911
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, Charles M.
+    - Relyea, C. M. (Charles Mark)
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+  - agent_name: Castaigne, J. André
+    aliases:
+    - Castaigne, A. (André)
+    - Castaigne, Andre
+    - Castaigne, J. Andre
+    - Castaigne, André
+    gutenberg_agent_id: '31877'
+    url: http://www.gutenberg.org/2009/agents/31877
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dillon, Mary (Mary C. Johnson)
+    alias: Dillon, Mary C. Johnson
+    gutenberg_agent_id: '9600'
+    url: http://www.gutenberg.org/2009/agents/9600
+description: ''
+gutenberg_issued: '2007-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Louisiana Purchase -- Fiction'
+- !lcsh 'Saint Louis (Mo.) -- Fiction'
+- !lcsh 'Historical fiction'
+title: The Rose of Old St. Louis
+url: http://www.gutenberg.org/ebooks/20911
